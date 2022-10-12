@@ -43,8 +43,6 @@ We used dialogue boxes to tell th thoughts of our character and used loud shapes
 
 I was responsible for creating and designing the basic outline and responsive elements of the webpage. Since, our story itself had a never ending loop type of characteristic, I made the website scroll to reset immediately and subtly, so that it would look like a never ending panel. Furthermore, to make it more immersive, I embedded a space travel music to it so that it would be more immersive. Also, narrative text is added in case it would be harder for the audience to understand from just the pictures.
 
-Reflection
-
 ### Ramsha
 
 During the project, I was responsible for the illustrations of the comic, specifically the first 3 panels of our comic strip and the description of the panels for the webpage. To design them, I used Adobe Illustrator and free stock photos for backgrounds and for ideas. For the first panel, I added a night background to a graphic of our character waking up. I used shaped dialogue boxes to add the effect of surprise. For the second panel, I used another background on which I drew the character, and for the last panel, again I drew a rocket on a background.
