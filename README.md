@@ -37,7 +37,7 @@ Moreover, the user can choose to play or pause the music themselves to their lik
 
 We used dialogue boxes to tell th thoughts of our character and used loud shapes to correspond to his emotions. 
 
-## Project Development (alphabetical)
+## Contribution and Reflections (alphabetical)
 
 ### Tengis
 
