@@ -34,23 +34,24 @@ Gifs are used to make the story more visual and to increase the user’s underst
 **Project Development (alphabetical):**
 
 **Tengis**
-Contribution
+
 I was responsible for creating and designing the basic outline and responsive elements of the webpage. Since, our story itself had a never ending loop type of characteristic, I made the website scroll to reset immediately and subtly, so that it would look like a never ending panel. Furthermore, to make it more immersive, I embedded a space travel music to it so that it would be more immersive. Also, narrative text is added in case it would be harder for the audience to understand from just the pictures. 
 Reflection
 
 **Ramsha**
-Contribution
+
 During the project, I was responsible for the illustrations of the comic, specifically the first 3 panels of our comic strip and the description of the panels for the webpage. To design them, I used Adobe Illustrator and free stock photos for backgrounds and for ideas. For the first panel, I added a night background to a graphic of our character waking up. I used shaped dialogue boxes to add the effect of surprise. For the second panel, I used another background on which I drew the character, and for the last panel, again I drew a rocket on a background. 
 While planning, I communicated with my team members to arrange our meetings, sent out calendar invites, set up zoom meeting, and coordinated with everyone so we can successfully meet to discuss the project’s progress. 
 Reflection
 Initially, the goal was to create an interactive and immersive experience for any user. We wanted the user to not 
 
 **Vir**
-Contribution
+
 During the discussion phase, I came up with the idea for the comic strip, and subsequent ideas for a fixed background in .gif format over which the panel will scroll. During the project, I was part of helping with coding the web-page and coming up with ideas and implementation for the interactivity and scroll animations. I used Visual Studio Code to do the same.
 Reflection
 Keeping the goal of the project in mind, I feel satisfied with the comic we have produced. There were hitches along the way, such as adding the music and cross-implementing the interactivity and the looping, but we got through it and produced a functional and aesthetically pleasing project. It has also given me experience in coding and working with teams, which is sure to help me in the future.
 
 **Yiyang**
+
 I am responsible for the illustration part of the comic, namely panel 3 to 6. During the phase of imagery creation, I have utilized Adobe products such as Photoshop and illustrator, as well as artificial intelligence as a source of creative inspiration. For example, for panel 3, I have adapted an image of the barrier of a spacecraft, fused the black hole into the background, and created 
 Reflection
